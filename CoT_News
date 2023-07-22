@@ -6,8 +6,13 @@ But it's working well enough to try it out! So head into the raid and have fun! 
 Best, swOOnk
 
 Changelog:
-07/21/2023 - Fixed some UI issues and added this dynamic news file
+07/22/2023
+   Reorganized the B menu
+   Fixed Backpack list not clearing on death
+   Added more tries to spawn the Exfil point (mostly an issue if there are not enough DB points saved)
+
+07/21/2023
+   Fixed some UI issues and added this dynamic news file
 
 Known Issues:
-- Exfil sometimes wont spawn, because it can't find a valid location
-- When you die/Exfil your backpack sometimes doesn't refresh correctly
+- none... yet? XD
